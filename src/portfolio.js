@@ -10,10 +10,10 @@ const about = {
   role: 'Software Developper',
 
   description:
-    '',
+    'Hi! I am Émile, a passionate software developer with experience in building web, mobile applications and games! I love learning new technologies and improving my skills. In my free time, I enjoy playing video games, and exploring new places.',
   social: {
-    linkedin: 'https://linkedin.com',
-    github: 'https://github.com',
+    linkedin: 'www.linkedin.com/in/émile-lévesque',
+    github: 'https://github.com/SkweesheeEmile',
   },
 }
 
@@ -34,15 +34,15 @@ const projects = [
       'StockUp is a mobile application designed to help users easily manage and track their stock investments. Its purpose is to provide a simple interface where users can view their portfolio, monitor performance, and stay organized without complex tools or spreadsheets.',
     stack: ['Kotlin', 'Compose', 'Android'],
     sourceCode: 'https://github.com/AveryPBerger/StockUp',
-    image: 'https://github.githubassets.com/assets/GitHub-Logo-ee398b662d42.png',
+    image: 'candlestick.png',
   },
   {
-    name: 'Project 3',
+    name: 'D-Rogue',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'In this Diep.io inspired roguelike game, players will control a little tank that has to defeat many randomly generated enemies from a pool to beat levels and get stronger. With each level completed, players can choose between different upgrades to enhance their tank and adapt their playstyle.',
+    stack: ['JavaScript', 'JSCanvas', 'HTML5'],
+    sourceCode: 'https://github.com/JAC-CS-Game-Programming-F25/project-d-rogue',
+    image: 'diep.png',
   },
 ]
 
